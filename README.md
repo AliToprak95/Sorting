@@ -1,2 +1,2 @@
 # Sorting
-Various Kind of Sorting Algorithms in Java
+Various Kinds of Sorting Algorithms in Java
