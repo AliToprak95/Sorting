@@ -1,4 +1,6 @@
 
+//ALI TOPRAK
+
 public class InsertionSort {
 	static void insertionSort(int[] x) {
 		for(int i=1;i<x.length;i++) {
