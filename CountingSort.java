@@ -1,15 +1,5 @@
-//MA 407 ALI TOPRAK
-//201854644
+//ALI TOPRAK
 
-//EXERCISE 5.1
-// (a) These scenarios are the worst scenarios, because the first elements are either the maximum or 
-//     the minimum values. Therefore, recurrence formula is T(n)=T(n-1)+cn=O(n^2)
-// (b)-
-// (c)-
-
-
-
-//EXERCISE 5.2
 public class CountingSort {
 	
 	static void printintArray(int[] x, String name) { //Function for printing an integer Array
@@ -58,7 +48,3 @@ public class CountingSort {
 	}
 
 }
-
-// (c)Worst case running time for this algorithm is O(n+m), because it does only simple things 
-//    in array sizes of n and m
-// (d)Actually it is lower than O(nlogn) because countingSort is not a comparison algorithm
